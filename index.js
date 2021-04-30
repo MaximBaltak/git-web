@@ -4,3 +4,4 @@ let obj={
     status: true,
     colors:['#a80000','#ffffff','#006ccb']
 }
+console.log('Привет всем')
